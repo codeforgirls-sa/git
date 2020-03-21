@@ -1,8 +1,8 @@
 
 
 def addition(a,b):
-	# add code here
-	# return result
+	
+	return a+b
 
 def substraction(a,b):
 	# add code here
