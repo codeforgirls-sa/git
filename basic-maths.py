@@ -1,18 +1,20 @@
 
 
 def addition(a,b):
-	
-	return a+b
+	# add code here
+	# return result
 
 def substraction(a,b):
 	# add code here
 	# return result
 
 def multiplication(a,b):
-	return a*b
+	# add code here
+	# return result
 
 def division(a,b):
-	return a/b
+	# add code here
+	# return result
 
 print("1+1 is", addition(1,1))
 
