@@ -4,8 +4,7 @@ def addition(a,b):
 	return a + b
 
 def substraction(a,b):
-	# add code here
-	# return result
+	return a -b
 
 def multiplication(a,b):
 	# add code here
